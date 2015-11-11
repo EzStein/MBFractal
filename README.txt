@@ -34,3 +34,6 @@ Macintosh computers. Many visual effects and performance stats will be platform 
 I have tried to account for all possible issues with running this program, but there is
 always the chance that it will simply not work. If it does not work, then there is a movie
 file illustrating some of the features of the program.
+
+If you want to see the actual code, visit https://github.com/Ezstein/Mandelbrot
+and got to the MandelbrotSet/src/mandelbrotSet folder.
